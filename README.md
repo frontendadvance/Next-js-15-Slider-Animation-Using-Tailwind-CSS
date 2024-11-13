@@ -1,3 +1,6 @@
+![Next-js-15-Slider-Animation-Using-Tailwind-CSS](https://github.com/user-attachments/assets/6fa1966b-1493-40f9-9ac6-59f61e35e094)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
